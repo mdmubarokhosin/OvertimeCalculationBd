@@ -1,0 +1,31 @@
+{
+  "name": "overtime-tracker-bd",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ওভারটাইম ট্র্যাকিং ও ক্যালকুলেশন সিস্টেম - Overtime Tracking & Calculation System for Bangladesh",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "firebase": "^12.17.0",
+    "next": "^16.1.1",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^19.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
